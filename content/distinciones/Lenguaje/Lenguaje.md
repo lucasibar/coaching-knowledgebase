@@ -1,0 +1,13 @@
+---
+title: Lenguaje
+type: distincion
+categories:
+  - distinciones
+related: []
+tags:
+  - lenguaje
+---
+
+# Lenguaje
+
+*Esta es una distinción pendiente de desarrollo. El concepto se menciona en varias Plenarias e Hitos y es fundamental para la coherencia de la base de conocimiento.*
