@@ -1,5 +1,7 @@
 {
   "buildCommand": "npx quartz build",
   "outputDirectory": "public",
-  "devCommand": "npx quartz build --serve"
+  "devCommand": "npx quartz build --serve",
+  "cleanUrls": true,
+  "trailingSlash": false
 }
